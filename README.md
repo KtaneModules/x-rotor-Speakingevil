@@ -1,1 +1,1 @@
-# x-rotor
+#[ModKit Wiki](../../wiki)
